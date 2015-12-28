@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RR Blog]]></title>
+        <description><![CDATA[RR Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 05:47:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Switching Gears Too Often]]></title>
+            <description><![CDATA[<article><h1>Switching Gears Too Often</h1><p>Switching Gears Too Often?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3b93652b8190683142928b59ea67b762781895.jpg"></article>]]></description>
+            <link>undefinedswitching-gears-too-often/index.html</link>
+            <guid isPermaLink="false">00e12a4f-8e8a-4254-918f-6d640c2643b1</guid>
+            <pubDate>Mon, 28 Dec 2015 05:47:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
