@@ -1,7 +1,7 @@
 name: RR Blog
 favicon: null
-layout_spectrum: 0.9058363402727991
-typography_spectrum: 0.21793105360120535
+layout_spectrum: 0.95865
+typography_spectrum: 0.21282
 cta:
   domain: null
   bucket: null
